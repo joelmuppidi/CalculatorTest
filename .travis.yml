@@ -1,7 +1,6 @@
 language: c
 sudo: false # only for faster builds
 script:
-  - apt-get update
   - clang -coverage -O0 calc.c -o calc
   - ./calc
   - gcov calc.c
