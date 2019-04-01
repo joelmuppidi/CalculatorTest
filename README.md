@@ -6,3 +6,4 @@
 
 changed ---------------------------------------------------------------------------------------->
 commited by kunal
+added better implementation of calculator
